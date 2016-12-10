@@ -6,11 +6,6 @@ import android.os.Bundle;
 public class MainActivity extends AppCompatActivity {
     
     int fromGitHub = "12";
-    int fromGitHub = "12";
-    int fromGitHub = "12";
-    int fromGitHub = "12";
-    int fromGitHub = "12";
-    int fromGitHub = "12";
     
 
     @Override
